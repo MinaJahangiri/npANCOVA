@@ -1,0 +1,47 @@
+Package: npANCOVA
+Type: Package
+Title: Nonparametric ANCOVA Methods
+Version: 0.1.0
+Date: 2025-09-16
+Authors@R: c(
+    person(given = "Mina", family = "Jahangiri", role = c("aut", "cre"),
+           email = "minajahangiri984@gmail.com",
+           comment = c(ORCID = "0000-0001-9119-7571")),
+    person(given = "Ali", family = "Taghavi Rad", role = "aut",
+	       comment = c(ORCID = "0009-0007-5529-8712")),
+    person(given = "Keith", family = "Goldfeld", role = "aut",
+           comment = c(ORCID = "0000-0002-0292-8780")),
+    person(given = "Anoshirvan", family = "Kazemnejad", role = "ctb",
+           comment = c(ORCID = "0000-0002-0143-9635")),
+    person(given = "Shayan", family = "Mostafaei", role = "ctb",
+           comment = c(ORCID = "0000-0002-1966-1306")))
+Description:
+    Nonparametric methods for analysis of covariance (ANCOVA) are
+    distribution-free and provide a flexible statistical framework for
+    situations where the assumptions of parametric ANCOVA are violated
+    or when the response variable is ordinal. This package implements
+    several well-known nonparametric ANCOVA procedures, including Quade,
+    Puri and Sen, McSweeney and Porter, Burnett and Barr, Hettmansperger
+    and McKean, Shirley, and Puri-Sen-Harwell-Serlin. The package provides
+    user-friendly functions to apply these methods in practice.
+License: GPL-3
+URL: https://github.com/Mina7Jahangiri7/npANCOVA
+BugReports: https://github.com/Mina7Jahangiri7/npANCOVA/issues
+Depends: 
+    R (>= 4.0)
+Imports: 
+    stats
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+NeedsCompilation: no
+Author: Mina Jahangiri [aut, cre]
+	(ORCID: <https://orcid.org/0000-0001-9119-7571>),
+	Ali Taghavi Rad [aut]
+	(ORCID: <https://orcid.org/0009-0007-5529-8712>),
+    Keith Goldfeld [aut]
+	(ORCID: <https://orcid.org/0000-0002-0292-8780>),	
+	Anoshirvan Kazemnejad [ctb]
+	(ORCID: <https://orcid.org/0000-0002-0143-9635>), 
+	Shayan Mostafaei [ctb]
+	(ORCID: <https://orcid.org/0000-0002-1966-1306>)
+Maintainer: Mina Jahangiri <minajahangiri984@gmail.com>
