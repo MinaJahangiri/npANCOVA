@@ -13,6 +13,7 @@ R
 ## 📌 **Contact**
 
 Please, send me an e-mail to: 
+
 **.** minajahangiri984@gmail.com
 
 **.** a.taghavirad95@gmail.com
@@ -25,7 +26,7 @@ Please, send me an e-mail to:
 
 Jahangiri M, Taghavi Rad A, Kazamnejad A, Goldfeld K, Mostafaei S. Package ‘npANCOVA’.
 
-**References**
+## 📚 **References**
 
 The reference of the dataset and the computational strategy of the methods are shown in the following papers:
 
