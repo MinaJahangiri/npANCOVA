@@ -13,12 +13,17 @@ R
 ## 📌 **Contact**
 
 Please, send me an e-mail to: 
-**.** minajahangiri984@gmail.com 
+**.** minajahangiri984@gmail.com
+
 **.** a.taghavirad95@gmail.com
 
     If you face any issue in running the code.
     If you find a bug.
     If you have any question or concern.
+
+## 📝 **Citation**
+
+Jahangiri M, Taghavi Rad A, Kazamnejad A, Goldfeld K, Mostafaei S. Package ‘npANCOVA’.
 
 **References**
 
