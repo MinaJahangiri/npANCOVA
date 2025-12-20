@@ -8,7 +8,7 @@ Nonparametric methods for analysis of covariance (ANCOVA) are distribution-free 
 
 **Contact**
 
-Please, send me an e-mail to: minajahangiri984@gmail.com, a.taghavirad95@gmail.com
+Please, send me an e-mail to: minajahangiri984@gmail.com or a.taghavirad95@gmail.com
 
     If you face any issue in running the code.
     If you find a bug.
