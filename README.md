@@ -6,9 +6,15 @@ An R Package for Nonparametric Analysis of Covariance (ANCOVA) Methods
 
 Nonparametric methods for analysis of covariance (ANCOVA) are distribution-free and provide a flexible statistical framework for situations where the assumptions of parametric ANCOVA are violated or when the response variable is ordinal. The npANCOVA package implements several well-known nonparametric ANCOVA procedures, including Quade, Puri and Sen, McSweeney and Porter, Burnett and Barr, Hettmansperger and McKean, Shirley, and Puri-Sen-Harwell-Serlin. The dataset of Quade (1967) was used to present the R codes of nonparametric ANCOVA methods. 
 
-**Contact**
+## 🧰 **Software**
 
-Please, send me an e-mail to: minajahangiri984@gmail.com or a.taghavirad95@gmail.com
+R
+
+## 📌 **Contact**
+
+Please, send me an e-mail to: 
+**.** minajahangiri984@gmail.com 
+**.** a.taghavirad95@gmail.com
 
     If you face any issue in running the code.
     If you find a bug.
